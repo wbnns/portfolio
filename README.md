@@ -21,4 +21,4 @@ the various side projects I'm working on
 
 | Project | Description |
 |-|-|
-| Untitled L2 Lottery Research | How lotteries of the future could work onchain  |
+| PGF Lottery Research | How lotteries of the future could work onchain |
