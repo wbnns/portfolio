@@ -2,8 +2,7 @@
 
 ## About
 
-Been building a lot lately so I decided to create a tracker / portfolio of
-the various side projects I'm working on
+Tracker / portfolio of various side projects
 
 ## Tracker
 
