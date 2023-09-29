@@ -3,7 +3,7 @@
 ## About
 
 Been building a lot lately so I decided to create a tracker / portfolio of
-the various projects I'm indie hacking
+the various side projects I'm working on
 
 ## Tracker
 
